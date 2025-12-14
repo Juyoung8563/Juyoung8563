@@ -16,7 +16,7 @@
   <br/>
   <br/>
 
-  ## 📫 Contect Me
+  ## 📫 Contact Me
   #### 📧 zxcvbnm856311@gmail.com<br/>
   <br/>
   <br/>
