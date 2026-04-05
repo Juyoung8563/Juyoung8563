@@ -10,8 +10,8 @@
   
   ## 👀 About Me
   ### 안녕하세요, 백엔드 개발자 손주영입니다.<br/>
-  #### 🌊 GANGWON STATE UNIVERSTY. Department of Drone Convergence<br/>
   #### 🌐 KOREA NATIONAL OPEN UNIVERSITY. Computer Science<br/>
+  #### 🌊 GANGWON STATE UNIVERSTY. Department of Drone Convergence<br/>
   #### 👨‍💻 Programers 생성형 AI 활용 백엔드 데브코스 1기<br/>
   <br/>
   <br/>
