@@ -1,11 +1,11 @@
-<div>
+<div align="center">
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text="Hello_World!")
   
 </div>
 
-<div>
+<div align="center">
   <!--Body-->
   
   ## 🖐️ I'm Juyoung-Son
@@ -23,7 +23,13 @@
   <br/>
 
   ## 📫 Contact Me
-  #### 📧 zxcvbnm856311@gmail.com<br/>
+   <a href="mailto:zxcvbnm856311@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <br/>
   <br/>
+</div>
+
+<div align="center">
+
+  ![Juyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyoung8563&show_icons=true&theme=radical)
+  
 </div>
