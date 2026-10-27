@@ -8,7 +8,7 @@
 <div align="center">
   <!--Body-->
   
-  ## 🖐️ I'm Juyoung-Son
+  ## 🖐️ I'm Juyoung Son
   #### 🧑🏻‍💻 주식회사 엘핀. 신규 서비스 개발 인턴 (2026.09.07 ~ 2026.12.31)<br/>
   #### 👨‍💻 Programers 생성형 AI 활용 백엔드 데브코스 1기 수료<br/>
   #### 🌐 KOREA NATIONAL OPEN UNIVERSITY. Computer Science<br/>
