@@ -10,15 +10,23 @@
   
   ## 🖐️ I'm Juyoung-Son
   #### 🧑🏻‍💻 주식회사 엘핀. 신규 서비스 개발 인턴 (2026-09-07 ~ 2026-12-31)<br/>
-  #### 🌐 KOREA NATIONAL OPEN UNIVERSITY. Computer Science<br/>
   #### 👨‍💻 Programers 생성형 AI 활용 백엔드 데브코스 1기 수료<br/>
+  #### 🌐 KOREA NATIONAL OPEN UNIVERSITY. Computer Science<br/>
   <br/>
   <br/>
 
-  ## 🔎 Interest
-  #### 🐕 에이전틱 코딩과 하네스 엔지니어링
-  #### 📈 생산성과 학습의 효율을 높이는 방법
-  #### ✏️ 집중력을 높이는 포모도로 기법, 인터듈 학습법, If-Then 알고리즘 등
+  ## 🔎 Projects
+  #### ⭐️ Community Crawler (`Python` / `Django`)
+  샌드박스 커뮤니티 유해 게시글 수집 및 검수 서비스<br/>
+  관리자 검수 페이지 기획 & 개발<br/>
+  <br/>
+  #### 🎟️ Ticketmon (`Java` / `SpringBoot`) 
+  대규모 트래픽 환경의 실시간 콘서트 티케팅 서비스<br/>
+  좌석 관련 기능 개발 & 실시간 통신 & 동시성 제어<br/>
+  <br/>
+  #### 🐶 PETTY (`Node.js` / `Express`)
+  반려동물 동반 여행지 & 여행 코스 AI 추천 서비스<br/>
+  UI/UX & Design & Vision LLM API<br/>
   <br/>
   <br/>
 
