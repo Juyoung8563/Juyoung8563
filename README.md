@@ -15,7 +15,7 @@
   <br/>
   <br/>
 
-  ## 🔎 Projects
+  ## 🔎 Project
   #### ⭐️ Community Crawler (`Python` / `Django`)
   샌드박스 커뮤니티 유해 게시글 수집 및 검수 서비스<br/>
   관리자 검수 페이지 기획 & 개발<br/>
@@ -30,7 +30,7 @@
   <br/>
   <br/>
 
-  ## 🛠️ Tech Stacks 
+  ## 🛠️ Tech Stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -40,7 +40,7 @@
   <br/>
   <br/>        
 
-  ## 📫 Contact Me
+  ## 📫 Contact
    <a href="mailto:zxcvbnm856311@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <br/>
   <br/>
